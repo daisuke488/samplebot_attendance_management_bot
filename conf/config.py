@@ -39,8 +39,8 @@ SECRET_KEY_NAME = "private_20200326103503.key"
 LOCAL_ADDRESS = "https://bottest1122.herokuapp.com/"
 
 # DB config
-DB_HOST = "ec2-xxx-xxx-xxx-xxx.compute-1.amazonaws.com"
-DB_NAME = "x3mdxxxxsg5nx"
-DB_USER = "xsozxxxxvksikx"
+DB_HOST = "ec2-52-86-33-50.compute-1.amazonaws.com"
+DB_NAME = "dm8mmk1osif0m"
+DB_USER = "nsigqlduqeqynn"
 DB_PORT = "5432"
-DB_PASSWORD = "xxxxxb3ff80c85d331da880f4b3e0xxxxxxxxxxxd552d64d128317653ce0xxxx"
+DB_PASSWORD = "b7fd61c365534d1a68f91df29ccee1b1f5ccca29ff51a9a162d5b18cdacfc85a"
