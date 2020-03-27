@@ -26,7 +26,7 @@ TZone = "Asia/Tokyo"
 
 # account
 ADMIN_ACCOUNT = "taro987@works-990435"
-DOMAIN_ID = 0
+DOMAIN_ID = 10164628
 
 # api
 API_ID = "jp1fexMGJawef"
@@ -36,7 +36,7 @@ SERVER_ID = "bffbaf07c0df4948a50a90d12db91958"
 SECRET_KEY_NAME = "private_20200326103503.key"
 
 # LOCAL ADDRESS
-LOCAL_ADDRESS = "https://https://bottest1122.herokuapp.com/.herokuapp.com/"
+LOCAL_ADDRESS = "https://bottest1122.herokuapp.com/"
 
 # DB config
 DB_HOST = "ec2-xxx-xxx-xxx-xxx.compute-1.amazonaws.com"
